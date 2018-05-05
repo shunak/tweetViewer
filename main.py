@@ -2,6 +2,7 @@ import os
 import tweepy
 from datetime import timedelta
 
+#認証情報を取得
 CK=os.environ['CONSUMER_KEY']
 CS=os.environ['CONSUMER_SECRET']
 AT=os.environ['ACCESS_TOKEN']
