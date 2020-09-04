@@ -2,7 +2,7 @@
 
 ### you can see real time tweets by keyword on cui.
 
-## Emv
+## Env
 os: Something Linux system  
 language: python
 
